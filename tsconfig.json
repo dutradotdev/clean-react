@@ -16,9 +16,8 @@
         "skipLibCheck": true,
         "allowSyntheticDefaultImports": true,
         "strict": true,
-        "forceConsistentCasingFileNames": true,
+        "forceConsistentCasingInFileNames": true,
         "resolveJsonModule": true,
-        "isolatedModules": true,
         "noEmit": true,
     },
     "include": [ "src" ]
